@@ -1,3 +1,3 @@
 # Letting fees data
 
-Archive of lettingfees gathered through lettingfees.co.uk (archived at lettingfees.inkleby.com)
+Archive of UK letting fees data gathered through lettingfees.co.uk (archived at lettingfees.inkleby.com)
