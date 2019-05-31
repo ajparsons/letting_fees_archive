@@ -1,0 +1,381 @@
+id,name,slug
+1,Adur District Council,adur-district-council
+2,Allerdale Borough Council,allerdale-borough-council
+3,Amber Valley Borough Council,amber-valley-borough-council
+4,Arun District Council,arun-district-council
+5,Ashfield District Council,ashfield-district-council
+6,Ashford Borough Council,ashford-borough-council
+8,Babergh District Council,babergh-district-council
+9,London Borough of Barking and Dagenham,london-borough-of-barking-and-dagenham
+11,Barnsley Metropolitan Borough Council,barnsley-metropolitan-borough-council
+12,Basildon Borough Council,basildon-borough-council
+13,Basingstoke and Deane Borough Council,basingstoke-and-deane-borough-council
+14,Bassetlaw District Council,bassetlaw-district-council
+16,Bedford Council (Unitary),bedford-council-unitary
+17,London Borough of Bexley,london-borough-of-bexley
+19,Blaby District Council,blaby-district-council
+20,Blackburn with Darwen Borough Council,blackburn-with-darwen-borough-council
+21,Blackpool Borough Council,blackpool-borough-council
+22,Bolsover District Council,bolsover-district-council
+23,Bolton Metropolitan Borough Council,bolton-metropolitan-borough-council
+24,Boston Borough Council,boston-borough-council
+26,Bracknell Forest Council,bracknell-forest-council
+27,Bradford Metropolitan District Council,bradford-metropolitan-district-council
+28,Braintree District Council,braintree-district-council
+29,Breckland District Council,breckland-district-council
+30,London Borough of Brent,london-borough-of-brent
+31,Brentwood Borough Council,brentwood-borough-council
+33,Broadland District Council,broadland-district-council
+35,Bromsgrove District Council,bromsgrove-district-council
+36,Borough of Broxbourne,borough-of-broxbourne
+37,Broxtowe Borough Council,broxtowe-borough-council
+38,Burnley Borough Council,burnley-borough-council
+39,Calderdale Metropolitan Borough Council,calderdale-metropolitan-borough-council
+10,London Borough of Barnet,london-borough-of-barnet
+25,Bournemouth Borough Council,bournemouth-borough-council
+18,Birmingham City Council,birmingham-city-council
+15,Bath and North East Somerset Council,bath-and-north-east-somerset-council
+40,Cambridge City Council,cambridge-city-council
+42,Cannock Chase District Council,cannock-chase-district-council
+43,Canterbury City Council,canterbury-city-council
+44,Carlisle City Council,carlisle-city-council
+45,Castle Point Borough Council,castle-point-borough-council
+46,Charnwood Borough Council,charnwood-borough-council
+47,Chelmsford City Council,chelmsford-city-council
+48,Cheltenham Borough Council,cheltenham-borough-council
+49,Cherwell District Council,cherwell-district-council
+51,Chesterfield Borough Council,chesterfield-borough-council
+52,Chichester District Council,chichester-district-council
+53,Chiltern District Council,chiltern-district-council
+54,Chorley Council,chorley-council
+55,Christchurch Borough Council,christchurch-borough-council
+57,Copeland Borough Council,copeland-borough-council
+58,Corby Borough Council,corby-borough-council
+59,Cornwall Council (Unitary),cornwall-council-unitary
+60,City of London,city-of-london
+61,Cotswold District Council,cotswold-district-council
+62,Coventry City Council,coventry-city-council
+63,Craven District Council,craven-district-council
+64,Crawley Borough Council,crawley-borough-council
+67,Darlington Borough Council,darlington-borough-council
+68,Dartford Borough Council,dartford-borough-council
+69,Daventry District Council,daventry-district-council
+70,Derby City Council,derby-city-council
+71,Derbyshire Dales District Council,derbyshire-dales-district-council
+72,Doncaster Metropolitan Borough Council,doncaster-metropolitan-borough-council
+73,Dover District Council,dover-district-council
+75,East Cambridgeshire District Council,east-cambridgeshire-district-council
+76,East Devon District Council,east-devon-district-council
+77,East Dorset District Council,east-dorset-district-council
+78,East Hampshire District Council,east-hampshire-district-council
+80,East Lindsey District Council,east-lindsey-district-council
+81,East Northamptonshire Council,east-northamptonshire-council
+82,East Riding of Yorkshire Council,east-riding-of-yorkshire-council
+83,East Staffordshire Borough Council,east-staffordshire-borough-council
+66,Dacorum Council,dacorum-council
+50,Cheshire East Council (Unitary),cheshire-east-council-unitary
+56,Colchester Borough Council,colchester-borough-council
+84,Eastbourne Borough Council,eastbourne-borough-council
+85,Eastleigh Borough Council,eastleigh-borough-council
+86,Eden District Council,eden-district-council
+88,Epping Forest District Council,epping-forest-district-council
+89,Epsom and Ewell Borough Council,epsom-and-ewell-borough-council
+90,Erewash Borough Council,erewash-borough-council
+92,Fareham Borough Council,fareham-borough-council
+93,Fenland District Council,fenland-district-council
+94,Forest Heath District Council,forest-heath-district-council
+95,Forest of Dean District Council,forest-of-dean-district-council
+96,Fylde Borough Council,fylde-borough-council
+97,Gedling Borough Council,gedling-borough-council
+98,Gloucester City Council,gloucester-city-council
+99,Gosport Borough Council,gosport-borough-council
+100,Gravesham Borough Council,gravesham-borough-council
+101,Great Yarmouth Borough Council,great-yarmouth-borough-council
+102,Royal Borough of Greenwich,royal-borough-of-greenwich
+103,Guildford Borough Council,guildford-borough-council
+105,Halton Borough Council,halton-borough-council
+107,Harborough District Council,harborough-district-council
+109,Harlow Council,harlow-council
+110,Harrogate Borough Council,harrogate-borough-council
+111,London Borough of Harrow,london-borough-of-harrow
+112,Hart District Council,hart-district-council
+113,Hartlepool Borough Council,hartlepool-borough-council
+114,Hastings Borough Council,hastings-borough-council
+115,Havant Borough Council,havant-borough-council
+116,London Borough of Havering,london-borough-of-havering
+118,Hertsmere Borough Council,hertsmere-borough-council
+119,High Peak Borough Council,high-peak-borough-council
+121,Hinckley and Bosworth Borough Council,hinckley-and-bosworth-borough-council
+122,Horsham District Council,horsham-district-council
+124,Huntingdonshire District Council,huntingdonshire-district-council
+125,Hyndburn Borough Council,hyndburn-borough-council
+106,London Borough of Hammersmith and Fulham,london-borough-of-hammersmith-and-fulham
+91,Exeter City Council,exeter-city-council
+120,London Borough of Hillingdon,london-borough-of-hillingdon
+87,London Borough of Enfield,london-borough-of-enfield
+104,London Borough of Hackney,london-borough-of-hackney
+126,Ipswich Borough Council,ipswich-borough-council
+127,Isle of Wight Council,isle-of-wight-council
+128,Isles of Scilly,isles-of-scilly
+130,Royal Borough of Kensington and Chelsea,royal-borough-of-kensington-and-chelsea
+131,Kettering Borough Council,kettering-borough-council
+132,King's Lynn and West Norfolk Borough Council,kings-lynn-and-west-norfolk-borough-council
+133,Kingston-upon-Hull City Council,kingstonuponhull-city-council
+134,Kirklees Council,kirklees-council
+135,Knowsley Metropolitan Borough Council,knowsley-metropolitan-borough-council
+137,Lancaster City Council,lancaster-city-council
+142,Lichfield District Council,lichfield-district-council
+143,City of Lincoln Council,city-of-lincoln-council
+145,Luton Borough Council,luton-borough-council
+146,Maidstone Borough Council,maidstone-borough-council
+147,Maldon District Council,maldon-district-council
+148,Malvern Hills District Council,malvern-hills-district-council
+150,Mansfield District Council,mansfield-district-council
+151,Medway Council,medway-council
+152,Melton Borough Council,melton-borough-council
+153,Mendip District Council,mendip-district-council
+154,London Borough of Merton,london-borough-of-merton
+155,Mid Devon District Council,mid-devon-district-council
+156,Mid Suffolk District Council,mid-suffolk-district-council
+157,Mid Sussex District Council,mid-sussex-district-council
+159,Mole Valley District Council,mole-valley-district-council
+160,New Forest District Council,new-forest-district-council
+161,Newark and Sherwood District Council,newark-and-sherwood-district-council
+164,North Devon Council,north-devon-council
+165,North Dorset District Council,north-dorset-district-council
+166,North East Derbyshire District Council,north-east-derbyshire-district-council
+167,North East Lincolnshire Council,north-east-lincolnshire-council
+141,London Borough of Lewisham,london-borough-of-lewisham
+144,Liverpool City Council,liverpool-city-council
+163,London Borough of Newham,london-borough-of-newham
+129,London Borough of Islington,london-borough-of-islington
+139,Leicester City Council,leicester-city-council
+138,Leeds City Council,leeds-city-council
+136,London Borough of Lambeth,london-borough-of-lambeth
+168,North Hertfordshire District Council,north-hertfordshire-district-council
+169,North Kesteven District Council,north-kesteven-district-council
+170,North Lincolnshire Council,north-lincolnshire-council
+171,North Norfolk District Council,north-norfolk-district-council
+172,North Somerset  Council,north-somerset--council
+173,North Tyneside Metropolitan Borough Council,north-tyneside-metropolitan-borough-council
+174,North Warwickshire Borough Council,north-warwickshire-borough-council
+175,North West Leicestershire District Council,north-west-leicestershire-district-council
+176,Northampton Borough Council,northampton-borough-council
+178,Norwich City Council,norwich-city-council
+179,Nottingham City Council,nottingham-city-council
+180,Nuneaton and Bedworth Borough Council,nuneaton-and-bedworth-borough-council
+181,Oadby and Wigston District Council,oadby-and-wigston-district-council
+182,Oldham Metropolitan Borough Council,oldham-metropolitan-borough-council
+184,Pendle Borough Council,pendle-borough-council
+185,Peterborough City Council,peterborough-city-council
+186,Plymouth City Council,plymouth-city-council
+187,Portsmouth City Council,portsmouth-city-council
+188,Preston City Council,preston-city-council
+189,Purbeck District Council,purbeck-district-council
+191,London Borough of Redbridge,london-borough-of-redbridge
+193,Redditch Borough Council,redditch-borough-council
+194,Reigate and Banstead Borough Council,reigate-and-banstead-borough-council
+195,Ribble Valley Borough Council,ribble-valley-borough-council
+197,Richmondshire District Council,richmondshire-district-council
+198,Rochdale Metropolitan Borough Council,rochdale-metropolitan-borough-council
+199,Rochford District Council,rochford-district-council
+200,Rossendale Borough Council,rossendale-borough-council
+201,Rother District Council,rother-district-council
+202,Rotherham Metropolitan Borough Council,rotherham-metropolitan-borough-council
+203,Rugby Borough Council,rugby-borough-council
+204,Runnymede Borough Council,runnymede-borough-council
+205,Rushcliffe Borough Council,rushcliffe-borough-council
+206,Rushmoor Borough Council,rushmoor-borough-council
+177,Northumberland Council,northumberland-council
+183,Oxford City Council,oxford-city-council
+192,Redcar and Cleveland Council,redcar-and-cleveland-council
+207,Rutland County Council,rutland-county-council
+208,Ryedale District Council,ryedale-district-council
+209,Salford City Council,salford-city-council
+210,Sandwell Metropolitan Borough Council,sandwell-metropolitan-borough-council
+211,Scarborough Borough Council,scarborough-borough-council
+212,Sedgemoor District Council,sedgemoor-district-council
+213,Sefton Metropolitan Borough Council,sefton-metropolitan-borough-council
+214,Selby District Council,selby-district-council
+215,Sevenoaks District Council,sevenoaks-district-council
+216,Sheffield City Council,sheffield-city-council
+217,Shepway District Council,shepway-district-council
+218,Shropshire Council - Unitary,shropshire-council--unitary
+219,Slough Borough Council,slough-borough-council
+220,Solihull Metropolitan Borough Council,solihull-metropolitan-borough-council
+221,South Buckinghamshire District Council,south-buckinghamshire-district-council
+222,South Cambridgeshire District Council,south-cambridgeshire-district-council
+223,South Derbyshire District Council,south-derbyshire-district-council
+224,South Gloucestershire Council,south-gloucestershire-council
+225,South Hams District Council,south-hams-district-council
+226,South Holland District Council,south-holland-district-council
+227,South Kesteven District Council,south-kesteven-district-council
+228,South Lakeland District Council,south-lakeland-district-council
+229,South Norfolk District Council,south-norfolk-district-council
+230,South Northamptonshire Council,south-northamptonshire-council
+231,South Oxfordshire District Council,south-oxfordshire-district-council
+232,South Ribble Borough Council,south-ribble-borough-council
+233,South Somerset District Council,south-somerset-district-council
+234,South Staffordshire Council,south-staffordshire-council
+235,South Tyneside Council,south-tyneside-council
+236,Southampton City Council,southampton-city-council
+237,Southend-on-Sea Borough Council,southendonsea-borough-council
+239,Spelthorne Borough Council,spelthorne-borough-council
+241,St Helens Metropolitan Borough Council,st-helens-metropolitan-borough-council
+242,Stafford Borough Council,stafford-borough-council
+243,Staffordshire Moorlands District Council,staffordshire-moorlands-district-council
+244,Stevenage Borough Council,stevenage-borough-council
+245,Stockport Metropolitan Borough Council,stockport-metropolitan-borough-council
+246,Stockton-on-Tees Borough Council,stocktonontees-borough-council
+247,Stoke-on-Trent City Council,stokeontrent-city-council
+248,Stratford-on-Avon District Council,stratfordonavon-district-council
+249,Stroud District Council,stroud-district-council
+250,Suffolk Coastal District Council,suffolk-coastal-district-council
+251,Sunderland City Council,sunderland-city-council
+252,Surrey Heath Borough Council,surrey-heath-borough-council
+253,London Borough of Sutton,london-borough-of-sutton
+254,Swale Borough Council,swale-borough-council
+256,Tameside Metropolitan Borough Council,tameside-metropolitan-borough-council
+257,Tamworth Borough Council,tamworth-borough-council
+258,Tandridge District Council,tandridge-district-council
+259,Taunton Deane Borough Council,taunton-deane-borough-council
+260,Teignbridge District Council,teignbridge-district-council
+262,Tendring District Council,tendring-district-council
+263,Test Valley Borough Council,test-valley-borough-council
+264,Tewkesbury Borough Council,tewkesbury-borough-council
+265,Thanet District Council,thanet-district-council
+266,Three Rivers District Council,three-rivers-district-council
+267,Thurrock Council,thurrock-council
+268,Tonbridge and Malling Borough Council,tonbridge-and-malling-borough-council
+269,Torbay Council,torbay-council
+270,Torridge District Council,torridge-district-council
+272,Trafford Metropolitan Borough Council,trafford-metropolitan-borough-council
+273,Tunbridge Wells Borough Council,tunbridge-wells-borough-council
+274,Uttlesford District Council,uttlesford-district-council
+275,Vale of White Horse District Council,vale-of-white-horse-district-council
+276,Wakefield Metropolitan District Council,wakefield-metropolitan-district-council
+277,Walsall Metropolitan Borough Council,walsall-metropolitan-borough-council
+281,Warwick District Council,warwick-district-council
+283,Waveney District Council,waveney-district-council
+284,Waverley Borough Council,waverley-borough-council
+285,Wealden District Council,wealden-district-council
+286,Wellingborough Borough Council,wellingborough-borough-council
+287,Welwyn Hatfield Council,welwyn-hatfield-council
+288,West Berkshire Council,west-berkshire-council
+289,West Devon Borough Council,west-devon-borough-council
+282,Watford Borough Council,watford-borough-council
+261,Telford and Wrekin Council,telford-and-wrekin-council
+255,Swindon Borough Council,swindon-borough-council
+280,Warrington Borough Council,warrington-borough-council
+290,West Dorset District Council,west-dorset-district-council
+291,West Lancashire Borough Council,west-lancashire-borough-council
+292,West Lindsey District Council,west-lindsey-district-council
+293,West Oxfordshire District Council,west-oxfordshire-district-council
+294,West Somerset District Council,west-somerset-district-council
+295,City of Westminster,city-of-westminster
+296,Weymouth and Portland Borough Council,weymouth-and-portland-borough-council
+297,Wigan Metropolitan Borough Council,wigan-metropolitan-borough-council
+298,Wiltshire Council (Unitary),wiltshire-council-unitary
+299,Winchester City Council,winchester-city-council
+300,Royal Borough of Windsor and Maidenhead,royal-borough-of-windsor-and-maidenhead
+302,Woking Borough Council,woking-borough-council
+304,Wolverhampton City Council,wolverhampton-city-council
+305,Worcester City Council,worcester-city-council
+306,Worthing Borough Council,worthing-borough-council
+307,Wychavon District Council,wychavon-district-council
+308,Wycombe District Council,wycombe-district-council
+309,Wyre Council,wyre-council
+310,Wyre Forest District Council,wyre-forest-district-council
+312,Barrow-in-Furness Borough Council,barrowinfurness-borough-council
+313,Bury Metropolitan Borough Council,bury-metropolitan-borough-council
+316,Elmbridge Borough Council,elmbridge-borough-council
+317,Gateshead Metropolitan Borough Council,gateshead-metropolitan-borough-council
+318,Hambleton District Council,hambleton-district-council
+319,Middlesbrough Borough Council,middlesbrough-borough-council
+320,St Edmundsbury Borough Council,st-edmundsbury-borough-council
+322,Royal Borough of Kingston upon Thames,royal-borough-of-kingston-upon-thames
+323,Newcastle-Under-Lyme District Council,newcastleunderlyme-district-council
+324,Borough of Poole,borough-of-poole
+325,Central Bedfordshire Council,central-bedfordshire-council
+326,Cheshire West and Chester Council,cheshire-west-and-chester-council
+327,Aberdeenshire Council,aberdeenshire-council
+328,Aberdeen City Council,aberdeen-city-council
+329,Isle of Anglesey County Council,isle-of-anglesey-county-council
+330,Angus Council,angus-council
+303,Wokingham Borough Council,wokingham-borough-council
+321,Bristol City Council,bristol-city-council
+311,City of York Council,city-of-york-council
+331,Argyll and Bute Council,argyll-and-bute-council
+332,Bridgend County Borough Council,bridgend-county-borough-council
+333,Caerphilly County Borough Council,caerphilly-county-borough-council
+334,Cardiff Council,cardiff-council
+335,Carmarthenshire County Council,carmarthenshire-county-council
+336,Ceredigion County Council,ceredigion-county-council
+337,Clackmannanshire Council,clackmannanshire-council
+338,Conwy County Borough Council,conwy-county-borough-council
+340,Dumfries and Galloway Council,dumfries-and-galloway-council
+341,Dundee City Council,dundee-city-council
+342,East Ayrshire Council,east-ayrshire-council
+343,East Dunbartonshire Council,east-dunbartonshire-council
+344,East Lothian Council,east-lothian-council
+345,East Renfrewshire Council,east-renfrewshire-council
+346,Edinburgh City Council,edinburgh-city-council
+347,Falkirk Council,falkirk-council
+348,Fife Council,fife-council
+349,Flintshire County Council,flintshire-county-council
+350,Glasgow City Council,glasgow-city-council
+351,Gwynedd County Council,gwynedd-county-council
+352,The Highland Council,the-highland-council
+353,Inverclyde Council,inverclyde-council
+354,Merthyr Tydfil County Borough Council,merthyr-tydfil-county-borough-council
+355,Midlothian Council,midlothian-council
+356,Monmouthshire County Council,monmouthshire-county-council
+357,Moray Council,moray-council
+358,Neath Port Talbot County Borough Council,neath-port-talbot-county-borough-council
+359,Newport City Council,newport-city-council
+360,North Ayrshire Council,north-ayrshire-council
+361,Orkney Islands Council,orkney-islands-council
+362,Pembrokeshire County Council,pembrokeshire-county-council
+363,Perth and Kinross Council,perth-and-kinross-council
+364,Powys County Council,powys-county-council
+365,Renfrewshire Council,renfrewshire-council
+366,Rhondda Cynon Taf County Borough Council,rhondda-cynon-taf-county-borough-council
+367,Shetland Islands Council,shetland-islands-council
+368,South Ayrshire Council,south-ayrshire-council
+369,South Lanarkshire Council,south-lanarkshire-council
+370,Stirling Council,stirling-council
+371,Torfaen County Borough Council,torfaen-county-borough-council
+372,Vale of Glamorgan Council,vale-of-glamorgan-council
+373,Western Isles Council,western-isles-council
+374,West Dunbartonshire Council,west-dunbartonshire-council
+375,West Lothian Council,west-lothian-council
+376,Wrexham County Borough Council,wrexham-county-borough-council
+377,North Lanarkshire Council,north-lanarkshire-council
+378,Scottish Borders Council,scottish-borders-council
+379,Blaenau Gwent County Borough Council,blaenau-gwent-county-borough-council
+380,The City and County of Swansea Council,the-city-and-county-of-swansea-council
+158,Milton Keynes,milton-keynes
+301,Wirral Council,wirral-council
+339,Denbighshire County Council,denbighshire-county-council
+278,London Borough of Waltham Forest,london-borough-of-waltham-forest
+65,London Borough of Croydon,london-borough-of-croydon
+238,London Borough of Southwark,london-borough-of-southwark
+7,Aylesbury Vale District Council,aylesbury-vale-district-council
+314,Dudley Metropolitan Borough Council,dudley-metropolitan-borough-council
+32,Brighton and Hove City Council,brighton-and-hove-city-council
+108,London Borough of Haringey,london-borough-of-haringey
+196,London Borough of Richmond upon Thames,london-borough-of-richmond-upon-thames
+79,East Hertfordshire District Council,east-hertfordshire-district-council
+315,London Borough of Ealing,london-borough-of-ealing
+34,London Borough of Bromley,london-borough-of-bromley
+240,St Albans City and District Council,st-albans-city-and-district-council
+123,London Borough of Hounslow,london-borough-of-hounslow
+74,Durham County Council,durham-county-council
+117,Herefordshire Council,herefordshire-council
+190,Reading Borough Council,reading-borough-council
+162,Newcastle-upon-Tyne City Council,newcastleupontyne-city-council
+149,Manchester City Council,manchester-city-council
+41,London Borough of Camden,london-borough-of-camden
+279,London Borough of Wandsworth,london-borough-of-wandsworth
+140,Lewes District Council,lewes-district-council
+271,London Borough of Tower Hamlets,london-borough-of-tower-hamlets

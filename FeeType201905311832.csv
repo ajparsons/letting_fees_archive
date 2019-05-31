@@ -1,0 +1,499 @@
+id,name,show_as_chart,exclude_from_stats,check_mandatory,notes,deleted
+5,Deposit Protection,0,0,0,,0
+6,Inventory Report,0,0,0,,0
+7,Guarantor Check,0,0,0,,0
+8,Misc,0,0,0,,0
+10,Permitted Occupier,0,0,0,,0
+11,Tenancy Amendment,0,0,0,,0
+13,Contract Copy,0,0,0,,0
+25,Document Copy,0,0,0,,0
+26,Key Deposit,0,0,0,,0
+27,Reservation Fee,0,0,0,,0
+28,Copy of Inventory Report,0,0,0,,0
+36,Company Reference,0,0,0,,0
+40,Change of Sharer Reference Check,0,0,0,,0
+42,Professional Cleaning,0,0,0,,0
+44,Early Termination,0,0,0,,0
+45,Breach of Tenancy,0,0,0,,0
+46,Failed Rent Payments,0,0,0,,0
+68,Landlord references,0,0,0,,1
+77,Tenancy Renewal,0,0,0,,1
+47,Other,0,0,0,,0
+33,Change of tenancy,0,0,0,,1
+39,Check In,0,0,0,,0
+17,Change of Tenant,0,0,0,,1
+111,Credit Card fee,0,0,0,,0
+50,,0,0,0,,0
+51,ID Verification,0,0,0,,0
+52,Inventory Amendments,0,0,0,,0
+55,Charge for Missing Items,0,0,0,,0
+56,Charge for repair of tenant danage,0,0,0,,0
+57,Repositioning furniture at EOT,0,0,0,,0
+58,Inventory Report Furnished,0,0,0,,0
+59,Inventory Report Unfurnished,0,0,0,,0
+60,Change of Occupancy,0,0,0,,0
+65,Security Deposit,0,0,0,,0
+66,Abortive appointment,0,0,0,,0
+67,Credit Check at Renewal,0,0,0,,0
+71,Reminder Letter,0,0,0,,0
+73,Rent in Advance Administration,0,0,0,,0
+76,Pet Deposit,0,0,0,,0
+79,Eviction Fees,0,0,0,,0
+80,Non registration of Utility Services,0,0,0,,0
+81,No Fees,0,0,0,,0
+82,Preparation of tenancy agreement alterations and additions,0,0,0,,0
+83,Inventory Report Alterations,0,0,0,,0
+86,Tenancy Addition or Replacement ,0,0,0,,0
+87,End of Tenancy Missing or Damaged Items,0,0,0,,0
+88,End of Tenancy Damage Costs & Cleaning,0,0,0,,0
+89,End of Tenancy Property Refreshment,0,0,0,,0
+90,Stamp Duty Land Tax,0,0,0,,0
+91,Arrangement Fee,0,0,0,,0
+93,Change of Sharer Tenancy Agreement,0,0,0,,0
+94,Addendum (Contract Changes),0,0,0,,0
+32,Check Out,0,0,0,,1
+43,Late rent letter,0,0,0,,1
+112,New tenancy agreement,0,0,0,,0
+16,Administration,0,0,0,,1
+61,Administration & referencing,0,0,0,,1
+101,Out of Hours Service,0,0,0,,0
+103,Non payment letter,0,0,0,,0
+105,Tenancy Set up Additional Tenants,0,0,0,,0
+106,Deposit,0,0,0,,0
+21,Tenancy Continutation,0,0,0,,1
+63,Administration,0,0,0,,1
+29,Agency Fees,0,0,0,,1
+78,Early Release Fee,0,0,0,,1
+62,holding deposit,0,0,0,,1
+107,our of hours services,0,0,0,,1
+4,Tenancy Extension,0,0,0,,1
+118,Additional copies of tenancy,0,0,0,,0
+120,Check In and Check Out,0,0,0,,0
+122,Agreed assignments administration fee,0,0,0,,0
+123,Agreed assignments reference fee per reference,0,0,0,,0
+124,Breach of tenancy notices served per item,0,0,0,,0
+125,Cheque handling fee,0,0,0,,0
+126,Adminstration and Reference Fee,0,0,0,,0
+130,New Occupier Reference,0,0,0,,0
+108,Change of Sharer,0,0,0,,1
+2,Reference Check,1,0,0,,0
+72,End of Tenancy Clean,0,0,0,,0
+30,Tenancy Renewal,0,0,0,,0
+121,Admin Fee ,0,0,0,,1
+134,Right to Rent,0,0,0,,0
+133,Admin Fee=,0,0,0,,1
+9,Tenant Fee,0,0,0,,1
+113,deposit registration,0,0,0,,1
+117,future landlord reference,0,0,0,,1
+129,Application Fee,0,0,0,,1
+137,Express Move In,0,0,0,,0
+141,Foreign Admin Fee,0,0,0,,0
+142,Student Admin Fee,0,0,0,,0
+143,Pet Licence,0,0,0,,0
+99,Tennancy Amendment,0,0,0,,1
+135,tenancy Extention,0,0,0,,1
+132,Contract,0,0,0,,1
+139,Application Fees,0,0,0,,1
+23,Contract Fee,0,0,0,,1
+119,Future landlord reference,0,0,0,,1
+92,Admin Fee,0,0,0,,0
+54,Renewal Tenancy Agreement,0,0,0,,1
+74,Abort Charge,0,0,0,,1
+114,Check out fee,0,0,0,,1
+41,Contract Changes,0,0,0,,1
+140,Renewal Fee,0,0,0,,1
+116,Landlord Reference Fee,0,0,0,,1
+95,Tenancy Set Up,0,0,0,,1
+104,Accompanied Check Out,0,0,0,,1
+98,Check In Large Property,0,0,0,,0
+97,Check In Medium/Large Property,0,0,0,,0
+96,Check In Small Property,0,0,0,,0
+38,Accompanied Check In,0,0,0,,1
+128,Check Out Report,0,0,0,,1
+110,change tenant details,0,0,0,,1
+109,Inventory Checkout,0,0,0,,1
+69,Additional tennant,0,0,0,,1
+136,Tenancy Extention Agreement,0,0,0,,1
+131,Credit Check,0,0,0,,1
+37,Preparation of tenancy agreement,0,0,0,,1
+15,Tenancy Agreement,1,0,0,,0
+35,Replacement Tenant,0,0,0,,1
+115,Additional tenant,0,0,0,,1
+85,Prepare Tenancy Renewal Agreement,0,0,0,,1
+84,Prepare Tenancy Renewal Memorandum,0,0,0,,1
+53,Renewal Memorandum,0,0,0,,1
+34,Credit References,0,0,0,,1
+18,Pet License,0,0,0,,1
+144,Change of Occ,0,0,0,,1
+138,Change of Tenancy,0,0,0,,1
+49,Late Payment Letter,0,0,0,,1
+127,Inventory Fee ,0,0,0,,1
+20,Missed Visits,0,0,0,,1
+102,Unpaid Rent,0,0,0,,1
+145,Admin for Shared Accomodation,0,0,0,,0
+148,Deed of Assignment,0,0,0,,0
+149,Named Occupant,0,0,0,,0
+150,Deed of Gurantee,0,0,0,,0
+151,End of Tenancy Clean,0,0,0,,0
+152,Guarantor Agreement,0,0,0,,0
+154,Sharers Fee,0,0,0,,0
+100,Tennancy Renewal,0,0,0,,1
+75,Guarantor Referencing,0,0,0,,1
+146,Reference Fee,0,0,0,,1
+147,Renewal of Contract,0,0,0,,1
+64,Holding Deposit,0,0,0,We tend not to record this (deposit not fee) - so more agents will ask for holding deposits than those shown below. ,0
+12,Ongoing Reference,0,0,0,Fee for this agent to prepare a reference for the next landlord. ,0
+155,Landlord Reference,0,0,0,,0
+159,Overseas Reference Check,0,0,0,,0
+160,Rent in Advance,0,0,0,,0
+161,Change Move In Date,0,0,0,,0
+162,Landlord reference,0,0,0,,0
+165,Monthly Arrears,0,0,0,,0
+167,Provision of new contract during tenancy,0,0,0,,0
+169,Check Out (1 bed),0,0,0,,0
+170,Check out (1 bed),0,0,0,,0
+171,Check out (2 bed or more),0,0,0,,0
+172,Personal check-in arrangement,0,0,0,,0
+173,Saturday move in,0,0,0,,0
+175,In-house re-inspection of a property,0,0,0,,0
+176,Lost security items,0,0,0,,0
+178,Late Rental Payment,0,0,0,,0
+179,Late Payment of Initial Monies,0,0,0,,0
+180,Check,0,0,0,,0
+181,Data Subject Access Request,0,0,0,,0
+182,Change of Rent Date,0,0,0,,0
+183,Debt Collection Instruction,0,0,0,,0
+184,Introduction of Authorised Occupant,0,0,0,,0
+185,Additonal House Visit,0,0,0,,0
+186,Re-arrange Contractor Visit,0,0,0,,0
+187,Missed Check Out,0,0,0,,0
+188,Misplaced Items at Check Out,0,0,0,,0
+189,Replacement Items,0,0,0,,0
+190,Change Direct Debit,0,0,0,,0
+191,Charge for repair of tenant damage,0,0,0,,0
+157,reference fee,0,0,0,,1
+168,Registration of security deposit,0,0,0,,1
+177,Application fee,0,0,0,,1
+192,Students and Sharers,0,0,0,,0
+193,Re-letting of property during tenancy term	,0,0,0,,0
+194,"Legal, Court & Bailiff fees for breach of tenancy",0,0,0,,0
+195,Changeover (ingoing tenant),0,0,0,,0
+196,Changeover (outgoing tenant),0,0,0,,0
+197,HMO Admin Fee,0,0,0,,0
+198,Abandoned Check Out,0,0,0,,0
+199,Mortgage/Landlord References,0,0,0,,0
+200,Overpayment of Rent,0,0,0,,0
+201,Agency Fee ,0,0,0,,0
+203,"Preparation of Inventory, Statement of Condition & Photographs per property",0,0,0,,0
+205,Immigration check fee,0,0,0,,0
+206,End of Tenancy Reference,0,0,0,,0
+207,Change of Occupancy (leaving tenant),0,0,0,,0
+208,Change of Occupancy (remaining co-tenants),0,0,0,,0
+209,Change of Occupancy (new tenant),0,0,0,,0
+210,Agency Fee,0,0,0,,0
+211,padshare,0,0,0,,0
+213,Tenancy Renewal (with change of tenant),0,0,0,,0
+214,Set-up charge,0,0,0,,0
+216,Abort charge,0,0,0,,0
+219,Aborted visit charge,0,0,0,,0
+222,Tenancy extension,0,0,0,,0
+224,Agreement of guarantee,0,0,0,,0
+227,Guarantor fee (over 2 guarantors),0,0,0,,0
+228,Tenant application fee,0,0,0,,0
+230,Renewal fee (students),0,0,0,,0
+232,End of Tenancy Referencing Fee,0,0,0,,0
+233,Referencing and Guarantor fee (non-HMO),0,0,0,,0
+234,Check Out (non-HMO),0,0,0,,0
+235,Referencing and guarantor (HMO/student),0,0,0,,0
+236,Tenant substitution,0,0,0,,0
+239,Student referencing fee,0,0,0,,0
+240,Change of tenancy (existing tenants),0,0,0,,0
+241,Change of tenancy (new tenant),0,0,0,,0
+243,Change of Sharers,0,0,0,,0
+244,Inventory and check-out (optional),0,0,0,,0
+246,Lease preparation,0,0,0,,0
+247,Tenancy Renewal (six months),0,0,0,,0
+248,Tenancy Renewal (one year),0,0,0,,0
+250,Guarantor Land Registry Check,0,0,0,,0
+251,Renewal fee (for over 6 months),0,0,0,,0
+252,Agency Fee (without guarantor),0,0,0,,0
+253,Agency Fee (students/those with guarantors),0,0,0,,0
+254,Check out (1-2 bed unfurnished),0,0,0,,0
+256,Student Tenant Application Fee,0,0,0,,0
+258,Accompanied Check-in Fee,0,0,0,,0
+261,Out of Hours Services,0,0,0,,0
+264,Duplicate Tenancy Agreement,0,0,0,,0
+265,Phone call be staff ,0,0,0,,0
+231,Contract Renewal,0,0,0,,1
+153,Administration Charges,0,0,0,,1
+245,Administration fee,0,0,0,,1
+223,Administration Fee,0,0,0,,1
+249,Deposit Administration Charge,0,0,0,,1
+242,Check out,0,0,0,,1
+215,Check out charge,0,0,0,,1
+259,Check Out Fee,0,0,0,,1
+212,Guarantor fee,0,0,0,,1
+255,Guarantor Fee,0,0,0,,1
+166,Guarantor fee (per guarantor),0,0,0,,1
+217,Extension/renewal,0,0,0,,1
+158,tenancy renewal,0,0,0,,1
+226,Tenancy Renewal ,0,0,0,,1
+229,Renewal fee,0,0,0,,1
+263,Renewal Fees,0,0,0,,1
+156,renw,0,0,0,,1
+221,Renewal fee (for 12 months),0,0,0,,1
+225,Tenant Referencing,0,0,0,,1
+202,Referencing Fee,0,0,0,,1
+204,TDS Registration,0,0,0,,1
+218,Tenancy amendment ,0,0,0,,1
+237,Tenancy changes,0,0,0,,1
+267,Late rent reminder,0,0,0,,1
+164,Overpaid Rent Refund,0,0,0,,1
+268,Overpaid/repayment of Rent Charge,0,0,0,,1
+163,Late / Missed Appointment,0,0,0,,1
+266,Set Up Fee,0,0,0,,1
+238,Tenancy Set up,0,0,0,,1
+260,Future Landlord Reference Fee,0,0,0,,1
+270,Set Up Fee Studio,0,0,0,,0
+271,Set Up Fee 1 Bed,0,0,0,,0
+272,Set Up Fee 2 Bed,0,0,0,,0
+273,Set Up Fee 3 Bed,0,0,0,,0
+274,Set Up Fee 4 Bed,0,0,0,,0
+275,Set Up Fee 5 Bed,0,0,0,,0
+276,Set Up Fee 6 Bed,0,0,0,,0
+277,Student referencing fee and set up fee,0,0,0,,0
+278,Missed Appointment/Inspection,0,0,0,,0
+279,Receiving rent as cash,0,0,0,,0
+280,Unauthorised late Check out/return of keys		 resulting in cancelled Check out Inspection,0,0,0,,0
+281,Tenancy Set up (up to 2 tenants),0,0,0,,0
+282,Phone call by staff ,0,0,0,,0
+283,Set Up Fee (1 tenant),0,0,0,,0
+284,Set Up Fee (2 tenants),0,0,0,,0
+285,Late rent reminder (2nd letter and 3rd letters),0,0,0,,0
+286,Tenancy Set up (up to tenants),0,0,0,,0
+292,Unfurnished Inventory Check,0,0,0,,0
+293,Furnished Inventory Check,0,0,0,,0
+296,Management Fee,0,0,0,,0
+297,Agency Administration Fee,0,0,0,,0
+303,Breach of Tenancy Letter,0,0,0,,0
+308,Refencing and Admin Fee for additional tenants,0,0,0,,0
+311,End of Tenancy Inspection,0,0,0,,0
+314,Legal/court action to recover overdue rent or fees,0,0,0,,0
+318,Student reference and credit check,0,0,0,,0
+319,Guarantor Fee for a student,0,0,0,,0
+321,Inventory Check Out fee,0,0,0,,0
+323,Full Individual Reference,0,0,0,,0
+325,Student Renewal Fee,0,0,0,,0
+329,Admin Charge for letters re arrears/complaints,0,0,0,,0
+333,Change of Sharer Fee,0,0,0,,0
+336,Agreement of Guarantee,0,0,0,,0
+340,Admin Fee for 2nd Tenant,0,0,0,,0
+343,Additional Tenant,0,0,0,,0
+349,Student Referencing Fee,0,0,0,,0
+355,Tenancy Application Fee,0,0,0,,0
+356,Referencing Fee (Guarantor),0,0,0,,0
+357,Referencing Fee (Student),0,0,0,,0
+361,ten,0,0,0,,0
+366,Administration Charge for an additional applicants,0,0,0,,0
+371,Agent Fee (1 bedroom property),0,0,0,,0
+372,Agent Fee (Bedsit/Room),0,0,0,,0
+373,Agent Fee (Studio Flat),0,0,0,,0
+374,Agency Fee (2 bedroom property),0,0,0,,0
+375,Agency fee (3 bedroom property),0,0,0,,0
+376,AgentFee (2 bedroom property),0,0,0,,0
+377,Agent fee (3 bedroom property),0,0,0,,0
+378,Agent Fee (4 bedroom property),0,0,0,,0
+379,Referencing and Admin (for 2 people),0,0,0,,0
+380,Referencing and Admin (For 1 person),0,0,0,,0
+381,Referencing and Admin (additional tenants),0,0,0,,0
+382,Referencing and Admin (large families),0,0,0,,0
+383,Re-marketing of Property During Tenancy,0,0,0,,0
+386,Referencing and Admin Fee for additional tenants,0,0,0,,0
+387,Application and Admin Fee (for 2 tenants),0,0,0,,0
+388,Application and Admin Fee (for 1 tenants),0,0,0,,0
+389,Check Out Fee (paid prior to moving in),0,0,0,,0
+390,Periodic Tenancy Renewal,0,0,0,,0
+393,Agency Fee (1 bedroom/1 tenant),0,0,0,,0
+345,Additional Tenant Fee,0,0,0,,1
+351,Additional applicant,0,0,0,,1
+300,Additional Applicant,0,0,0,,1
+328,Admin and Refencing Fee for additional tenants,0,0,0,,1
+330,Admin Fee for additional tenants,0,0,0,,1
+327,Admin and Referencing Fee,0,0,0,,1
+348,Admin and Tenancy Agreement,0,0,0,,1
+365,Administration Charge,0,0,0,,1
+339,Chekc Out Fee,0,0,0,,1
+326,Checkout Fee,0,0,0,,1
+347,Check out Fee,0,0,0,,1
+299,End of Tenancy/Check Out Fee,0,0,0,,1
+294,Guarantor Refencing,0,0,0,,1
+332,Guarantor Refencing Fee,0,0,0,,1
+354,Contract Renewal/Extension,0,0,0,,1
+324,Fixed Term Renewal Fee,0,0,0,,1
+309,Fixed Term Tenancy Renewal,0,0,0,,1
+301,Fixed Term Tenancy Renewal Fee,0,0,0,,1
+367,Renewal Charge,0,0,0,,1
+358,Tenancy Renewal Fee,0,0,0,,1
+362,Renewal,0,0,0,,1
+295,Renewal/Extension Agreements,0,0,0,,1
+307,Refencing and Admin Fee for 1 person,0,0,0,,1
+385,Referencing and Admin Fee for 1 person,0,0,0,,1
+306,Refencing and Admin Fee for 2 people,0,0,0,,1
+360,Admi Fee,0,0,0,,1
+289,Check in fee,0,0,0,,1
+288,Check in Fee,0,0,0,,1
+331,Check In Fee,0,0,0,,1
+315,Refencing and Credit Check Fee,0,0,0,,1
+337,Refencing Fee,0,0,0,,1
+291,Referencing,0,0,0,,1
+269,Tenant Reference,0,0,0,,1
+298,Credit/Referencing Check,0,0,0,,1
+320,Initial Referencing Fee,0,0,0,,1
+338,Tenancy Agreement Fee,0,0,0,,1
+322,Tenancy Agrrement Fee,0,0,0,,1
+335,Pet Licence Fee,0,0,0,,1
+310,Periodic Term Tenancy Renewal,0,0,0,,1
+316,Statutory Periodic Fee,0,0,0,,1
+302,Periodic Term Tenancy Fee,0,0,0,,1
+346,Tenancy Amendment Fee,0,0,0,,1
+352,Late payment Fee,0,0,0,,1
+342,Late Payment Fee,0,0,0,,1
+344,Late Payment Fees,0,0,0,,1
+369,Late payment of rent,0,0,0,,1
+364,Late Rent Payment Fee,0,0,0,,1
+368,Late Payment of rent,0,0,0,,1
+304,Late Rent Payment Fee/Returned Standing Order,0,0,0,,1
+359,Overpayment Fee,0,0,0,,1
+313,Overpayment of rent,0,0,0,,1
+350,Inventory Check In,0,0,0,,1
+341,Inventory Fee,0,0,0,,1
+370,Early release from tenancy,0,0,0,,1
+391,Early surrender of tenancy,0,0,0,,1
+392,Failing to attend an appointment,0,0,0,,1
+305,Failure to attend a pre-arranged appointment,0,0,0,,1
+287,Set up fee,0,0,0,,1
+334,Outgoing Refencing Free,0,0,0,,1
+317,Reference Fee for future landlords,0,0,0,,1
+394,Agency Fee (1 bedroom/2 tenants),0,0,0,,0
+395,Agency Fee (2 bedrooms/1 tenant),0,0,0,,0
+396,Agency Fee (2 bedrooms/2 tenants),0,0,0,,0
+397,Agency fee (additional tenants),0,0,0,,0
+398,Agency fee (3 bedroom),0,0,0,,0
+399,Agency fee (4 bedroom),0,0,0,,0
+400,Agency fee (5 or more bedrooms),0,0,0,,0
+402,Independent Check Out Fee,0,0,0,,0
+404,Student Check Out Fee,0,0,0,,0
+405,Room Only Admin Fee,0,0,0,,0
+406,Room Only Check Out Fee,0,0,0,,0
+409,Referencing for each additional tenant,0,0,0,,0
+412,Contract fee,0,0,0,,0
+363,Accompanied Chekc-in Fee,0,0,0,,1
+262,Additional tenants,0,0,0,,1
+407,Additional Tenants,0,0,0,,1
+257,Administration and Referencing,0,0,0,,1
+353,Administration and Tenancy Agreement,0,0,0,,1
+401,Deposit Registration Fee,0,0,0,,1
+414,Check out ,0,0,0,,1
+403,Guarantor Referencing Fee,0,0,0,,1
+220,Renewal fee (for 6 months),0,0,0,,1
+384,Referencing and Admin Fee for 2 people,0,0,0,,1
+411,Referencing fee,0,0,0,,1
+312,Late payment/Non payment of rent,0,0,0,,1
+410,Inventory Check,0,0,0,,1
+415,Inventory,0,0,0,,1
+408,Early Termination of Tenancy,0,0,0,,1
+290,Furture landlord reference request,0,0,0,,1
+413,Reference for future landlord,0,0,0,,1
+416,Guarantor fee ,0,0,0,,0
+417,Inventory check-out,0,0,0,,0
+418,Tenancy Set up (up to two tenants),0,0,0,,0
+419,Admin Fee for 3 or more tenants,0,0,0,,0
+420,Admin fee,0,0,0,,0
+421,Admin fee for couples,0,0,0,,0
+422,Student or room-only,0,0,0,,0
+70,Check Out,0,0,1,,0
+423,Company Referencing,0,0,0,,0
+424,Return of Rent Overpayment,0,0,0,,0
+425,Lost keys,0,0,0,,0
+426,Reset trip switch or boiler,0,0,0,,0
+427,Pet disclaimer,0,0,0,,0
+428,Failed Direct Debit/Standing Order,0,0,0,,0
+429,Rent Arrears,0,0,0,,0
+430,Change of Tenant Fee,0,0,0,,0
+431,Payment by card,0,0,0,,0
+433,Tenancy set up,0,0,0,,0
+434,Alteration of tenancy dates,0,0,0,,0
+435,Reference,0,0,0,,0
+436,Extension of tenancy,0,0,0,,0
+437,Checkout inventory,0,0,0,,0
+438,Inventory Check-In,0,0,0,,0
+439,Reference per tenant,0,0,0,,0
+440,Change of agreement,0,0,0,,0
+441,Registration of deposit,0,0,0,,0
+442,Inventory ,0,0,0,,0
+443,Renewal of tenancy,0,0,0,,0
+444,Credit Check Fee,0,0,0,,0
+445,change,0,0,0,,0
+446,Contract renewal,0,0,0,,0
+447,Inventory fee,0,0,0,,0
+448,Reference request fee,0,0,0,,0
+449,Tenancy Fee,0,0,0,,0
+450,Check-out fee,0,0,0,,0
+451,Additional clauses in agreement,0,0,0,,0
+452,administration  ,0,0,0,,0
+453,administration,0,0,0,,0
+432,Holding Deposit ,0,0,0,,1
+174,Holding fee,0,0,0,,1
+454,Changes to tenancy ,0,0,0,,0
+455,Professional Pre-tenancy fee,0,0,0,,0
+456,Inspection Report,0,0,0,,0
+457,Surrender of Existing Tenancy,0,0,0,,0
+458,Tenancy Addition or Replacement,0,0,0,,0
+459,adm,0,0,0,,0
+460,Deposit Dispute Administration,0,0,0,,0
+461,Section 8 notice fee,0,0,0,,0
+462,Booking Fee,0,0,0,,0
+463,Deposit Re-Protection,0,0,0,,0
+464,Charge for Repaying Security Deposit To Multiple Accounts,0,0,0,,0
+465,Referencing Fee for 1 or 2 tenants,0,0,0,,0
+466,3rd and 4th tenants,0,0,0,,0
+467,Security Deposit Holding Fee,0,0,0,,0
+468,Additional Occupant Fees,0,0,0,,0
+469,Key release,0,0,0,,0
+470,Renewal admin fee,0,0,0,,0
+471,International Tenant Renewal admin fee,0,0,0,,0
+472,International Tenant admin fee,0,0,0,,0
+473,Late payment admin fee,0,0,0,,0
+474,Tenancy amendment (prior to commencement),0,0,0,,0
+475,Tenancy amendment (after commencement),0,0,0,,0
+476,Letter fee,0,0,0,,0
+477,Rent payment invoice,0,0,0,,0
+478,Tenancy replacement,0,0,0,,0
+479,Over-payment fee,0,0,0,,0
+480,Unpaid rent,0,0,0,,0
+481,Cancellation of visit,0,0,0,,0
+482,External reference,0,0,0,,0
+483,Negotiation Fee,0,0,0,,0
+484,Admin Fee (company),0,0,0,,0
+485,Guarantor fee (renewal),0,0,0,,0
+486,Overpayment charge,0,0,0,,0
+487,Early termination,0,0,0,,0
+488,Company tenant,0,0,0,,0
+489,changing terms,0,0,0,,0
+490,supplying written reference,0,0,0,,0
+491,Refund of deposit by cheque,0,0,0,,0
+492,Replace copy of inventory and schedule of condition,0,0,0,,0
+493,Endorsement to tenancy agreement,0,0,0,,0
+494,Refund of overpaid rent,0,0,0,,0
+495,Contractor fees,0,0,0,,0
+496,Additional contractor fees,0,0,0,,0
+497,Rescind notice to surrender,0,0,0,,0
+498,Unlawful termination of agreement,0,0,0,,0
+499,Reissue Tenancy Agreement,0,0,0,,0
+500,Weekend Move In,0,0,0,,0
+501,Letter,0,0,0,,0
+502,Service of notice,0,0,0,,0
+503,Failed Direct Debit,0,0,0,,0
+504,Early Surrender,0,0,0,,0
+505,Visit to property by staff or agent,0,0,0,,0
+506,Tracing,0,0,0,,0
